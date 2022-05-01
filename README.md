@@ -6,4 +6,4 @@ Use F1 to save file and close editor
 ### Adding font customization module
 
 
-###Add syntax highlighting - Cody Beck
+### Add syntax highlighting - Cody Beck
